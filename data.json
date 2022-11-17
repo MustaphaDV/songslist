@@ -1,0 +1,18 @@
+{
+	"AdsManager": {
+		"adNetwork": "admob",
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
+		"native_admob": "ca-app-pub-3940256099942544/2247696110",
+
+		"interstitial_fan": "IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+		"banner_fan": "IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+		"native_fan": "IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+	},
+	"Songs": [{
+		"song_name": "Hello rachid this song title",
+		"artist": "Rachid",
+		"song_link": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+		"image": "https://i.imgur.com/IGjwL4V.jpg"
+	}]
+}
