@@ -14,25 +14,31 @@
 		"movie_name": "World Earth Video",
 		"app_name": "MovieExtra",
 		"movie_link": "https://file-examples.com/storage/fe332cf53a63a4bd5991eb4/2017/04/file_example_MP4_1280_10MG.mp4",
-		"image": "https://iea.imgix.net/videos/v2/cover/world-360_1080_cover.jpg"
+		"image": "https://iea.imgix.net/videos/v2/cover/world-360_1080_cover.jpg",
+		"duration":"0:30"
 	},
 	{
 		"movie_name": "Big Buck Bunny",
 		"app_name": "MovieExtra",
 		"movie_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-		"image": "https://peach.blender.org/wp-content/uploads/bbb-splash.png"
+		"image": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
+		"duration":"9:56"
 	},
 	{
 		"movie_name": "For Bigger Meltdowns",
 		"app_name": "MovieExtra",
 		"movie_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-		"image": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014__340.jpg"
+		"image": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014__340.jpg",
+		"duration":"0:15"
+
 	},
 	{
 		"movie_name": "We Are Going BullRun",
 		"app_name": "MovieExtra",
 		"movie_link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
-		"image": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg"
+		"image": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg",
+		"duration":"0:47"
+
 	}
 	]
 }
